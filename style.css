@@ -1,0 +1,33 @@
+body{
+    margin-top: 40px;
+    
+}
+.firstblock{
+    margin: auto;
+    background-color:rgb(230, 221, 221);
+    height: 350px;
+    padding: 20px;
+    width: 800px;
+    border-radius: 6px;
+}
+.padtext{
+    font-size: 20px;
+}
+.secondblock{
+    background-color: white;
+    height: 200px;
+    border-left: 4px solid green;
+    padding: 10px;
+}
+.workbutton{
+    color: white;
+    background-color: rgb(86, 160, 86);
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.workbutton:hover{
+    background-color: green;
+}
